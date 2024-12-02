@@ -1,0 +1,2 @@
+go build day01.go
+./day01 < input.txt
