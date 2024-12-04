@@ -1,0 +1,2 @@
+go build day03.go
+./day03 < sample.txt
