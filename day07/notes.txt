@@ -1,0 +1,1 @@
+The longest input line has 13 words, meaning 12 numbers to combine with 11 operators.  This results in 2^11 = 2048 calculations (max).  This should be ok to brute force, and we'll see how part 2 fails :)
